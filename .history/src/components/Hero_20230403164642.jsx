@@ -22,8 +22,8 @@ const Hero = () => {
 						who specializes in the React Framework.
 					</p>
 				</div>
+				<ComputersCanvas />
 			</div>
-			<ComputersCanvas />
 		</section>
 	);
 };
